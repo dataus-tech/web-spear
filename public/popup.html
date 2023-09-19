@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>검색 결과 버튼</title>
+    <script src="popup.js"></script>
+    <script src="content.js"></script>
+    <style>
+      /* 팝업 스타일 */
+      .custom-popup {
+        display: none;
+        position: absolute;
+        background-color: #fff;
+        border: 1px solid #ccc;
+        padding: 10px;
+        box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+      }
+
+      /* 호버 시 팝업 표시 */
+      h3:hover .custom-popup {
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <button id="myButton" style="width: 100px; cursor: pointer">버튼</button>
+  </body>
+</html>
