@@ -21,6 +21,7 @@
 ## 구현 기능
 
 - 요약 버튼, 요약 로딩 인디케이터, 요약 결과 표시 컴포넌트 초기 구현
+  <br>
   <img width="330" alt="스크린샷 2023-09-19 오후 4 45 53" src="https://github.com/dataus-tech/web-spear/assets/66675699/2015e8bd-d6ef-4bb7-8967-2dd27896f7ea">
 
   ![스크린샷 2023-09-19 오후 4 27 28](https://github.com/dataus-tech/web-spear/assets/66675699/c15cbcf3-2b63-483e-938a-2c9ed08dcd47)
